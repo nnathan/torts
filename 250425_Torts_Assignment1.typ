@@ -37,8 +37,6 @@
 
 #show footnote.entry: set text(size: 9pt)
 
-abc
-
 /*
 
 Trespas to land instance 1:
@@ -96,11 +94,64 @@ In answering your question
  - appeal
  */
 
- The issue under consideration is trespass to land which occurs when a defendant directly and intentionally interferes with land in exclusive possession of the plaintiff without their consent or legal justification.
+ The issue for consideration is trespass to land. There are two instances that may constitute trespass: the first occurrence is Jasmine's tent looming several feet into Connor's backyard, and the second occurrence is Connor stepping into Jasmine's yard to argue.
+
+=== _Trespass to land_
+
+ Trespass to land at common law is a civil tort defined as a defendant directly and intentionally interfering with land in exclusive possession of the plaintiff without their consent or legal justification.
  #footnote[
-  // Plenty v Dillon
-  // TCN Channel Nine Pty Ltd v Anning (2002) 54 NSWLR 333 [23-24] 
-  // Lexis Nexis Study Guide 4th Ed pg 117 pp 7.2
- ]
+  _Plenty v Dillon_ (1991) 171 CLR 635, 639 (Mason CJ, Brennan and Toohey JJ);
+  _TCN Channel Nine Pty Ltd v Anning_ (2002) 54 NSWLR 333, 339 [23]--[26] (Spigelman CJ);
+  Sarah Withnall Howe and Greg Walsh, _LexisNexis Study Guide: Torts_ (LexisNexis Butterworths, 4th ed, 2021) 117 [7.2].
+]
+
+The elements are thus (1) an act of interference to the land by the defendant, (2) that was a sufficient act, (3) the act was direct interference to the plaintiff and not consequential, (4) the plaintiff has title to sue (i.e. exclusive possession), and (5) the defendant had requisite state of mind (i.e. intention).
+#footnote[
+  Sarah Withnall Howe and Greg Walsh, _LexisNexis Study Guide: Torts_ (LexisNexis Butterworths, 4th ed, 2021) 117 [7.2].
+]
+
+// scope of land, what is land?
+// what rights does the property the plaintiff must have -- needs exclusive possession given via title or conferred via lease
+// onus of proof is on the plaintiff to show fault of defendant
+// no need to prove intent of defendant (from study guide 7.1)
+// no need to prove damage
+// relevant to plaintiff consent to entry
+// statutory authorisation or lawful authority
+
+// defences: consent, implied licence, necessity, involuntary conduct / accident, mistake
 
 
+/*
+
+7.1 study guide
+
+The interference suffered by the plaintiff must be a direct result of the
+defendant’s act of interference. The issue of directness is discussed in more
+detail below and in Chapters 8 and 9; however, the following quote from
+Reynolds v Clarke gives an example of what is meant by a direct act. In this
+case (at 636; 748), it was said that ‘if a man throws a log into the highway,
+and in that act it hits me; I may maintain trespass, because it is an immediate
+wrong; but if as it lies there I tumble over it, and receive an injury, I must
+bring an action upon the case [that is, an action in negligence]; because it is
+only … consequen[tial]’.
+
+*/
+
+/*
+
+focus torts 17.2
+
+Because mistake is not a defence to the ‘intentional’ torts (see 19.19), an incursion
+onto the plaintiff’s land that is deliberate, but the result of an honest mistake, still
+constitutes trespass. For example, in James v North Star Pastoral Pty Ltd [2019] NTSC
+72, the defendant was held liable in trespass for building a fence that extended two
+metres onto the plaintiff’s land, even though the defendant (wrongly) believed that
+it was doing so lawfully.
+
+*/
+
+#text(size: 8pt)[
+(number of words in main body counted excluding header/footer/footnotes/bibilography: #total-words)
+
+*TODO*: AI attribution
+] <no-wc>
