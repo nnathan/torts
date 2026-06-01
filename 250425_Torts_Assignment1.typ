@@ -53,5 +53,54 @@ Jasmine, feeling defensive, dismisses Connor’s concerns, saying, "It's just a 
 
 */
 
+/*
+Question
+--------
+
+Choose one of the following so that your answer addresses only one intentional tort.
+
+ - Advise Connor on his rights and obligations under the law of nuisance.
+ - Advise Connor and/or Jasmine of their rights and obligations under trespass to land.
+ - Advise Connor and/or Jasmine of their rights and obligations under trespass to person (battery and/or assault)
+ - Advise Jasmine on her rights and obligations under false imprisonment.
+
+In answering your question limit your answer to the ONE civil cause of action in tort:
+
+ - name the tort
+ - outline the elements of that tort noting
+ - who has the onus of proof to establish those elements
+ - the facts that relate to each element
+ - the common law decisions and legislation that impact on the way thefacts would be interpreted to make out those elements
+ - state how each element is made out or not made out
+ - include advice on the limitation period
+ - outline any defences available
+ - who has the onus of proof to establish the defence
+ - the elements of the defence
+ - the facts that relate to the defence
+ - the common law decisions and legislation that impact on the way thefacts would be interpreted for those defences
+ - state why that defence is made out or not made out
+ - Advise each person based on that analysis and state what type of damages might be available.
+
+DO NOT consider the tort of negligence
+
+In answering your question
+ - use AGLC 4 for referencing
+ - you will lose a mark if you do not acknowledge any AI tool you use.
+
+ Tips
+ ----
+
+ - self-representation to reduce costs
+ - damages
+ - ADR
+ - appeal
+ */
+
+ The issue under consideration is trespass to land which occurs when a defendant directly and intentionally interferes with land in exclusive possession of the plaintiff without their consent or legal justification.
+ #footnote[
+  // Plenty v Dillon
+  // TCN Channel Nine Pty Ltd v Anning (2002) 54 NSWLR 333 [23-24] 
+  // Lexis Nexis Study Guide 4th Ed pg 117 pp 7.2
+ ]
 
 
