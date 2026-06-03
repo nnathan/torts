@@ -105,16 +105,24 @@ In answering your question
   Sarah Withnall Howe and Greg Walsh, _LexisNexis Study Guide: Torts_ (LexisNexis Butterworths, 4th ed, 2021) 117 [7.2].
 ]
 
-The elements are thus (1) an act of interference to the land by the defendant, (2) that was a sufficient act, (3) the act was direct interference to the plaintiff and not consequential, (4) the plaintiff has title to sue (i.e. exclusive possession), and (5) the defendant had requisite state of mind (i.e. intention).
+The elements are thus (1) an act of interference to the land by the defendant, (2) that was a sufficient act, (3) the act was direct interference to the plaintiff and not consequential, (4) the plaintiff has exclusive possession over the land, and (5) the defendant had requisite state of mind (i.e. intention).
 #footnote[
   Sarah Withnall Howe and Greg Walsh, _LexisNexis Study Guide: Torts_ (LexisNexis Butterworths, 4th ed, 2021) 117 [7.2].
 ]
 
-// scope of land, what is land?
 // what rights does the property the plaintiff must have -- needs exclusive possession given via title or conferred via lease
+
+In its name, trespass to land, is about land. Both Jasmine and Connor backyards constitute as such. But to bring about action, they must have exclusive possession which goes by way of ownership (e.g. title) or as a lessee (*citation?*), or in more unusual cases where possession of land is demonstrated such as a squatter (*citation?*).
+
 // onus of proof is on the plaintiff to show fault of defendant
+
+For Trespass to land to succeed the onus of proof is on the plaintiff to show fault of defendant, and the defendant does not have available defence.
+
 // no need to prove intent of defendant (from study guide 7.1)
 // no need to prove damage
+
+*TODO: no need to prove intent of defendant, no need to prove damages*
+
 // relevant to plaintiff consent to entry
 // statutory authorisation or lawful authority
 
