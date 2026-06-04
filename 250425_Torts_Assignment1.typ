@@ -105,7 +105,7 @@ In answering your question
   Sarah Withnall Howe and Greg Walsh, _LexisNexis Study Guide: Torts_ (LexisNexis Butterworths, 4th ed, 2021) 117 [7.2].
 ]
 
-The elements are thus (1) an act of interference to the land by the defendant, (2) that was a sufficient act, (3) the act was direct interference to the plaintiff and not consequential, (4) the plaintiff has exclusive possession over the land, and (5) the defendant had requisite state of mind (i.e. intention).
+The elements are thus (1) an act of interference to the land by the defendant, (2) that was a sufficient act, (3) the act was direct interference to the plaintiff and not consequential, (4) the plaintiff has exclusive possession over the land, and (5) the defendant had requisite state of mind (i.e. intention). *TODO: what about lawful authority?*
 #footnote[
   Sarah Withnall Howe and Greg Walsh, _LexisNexis Study Guide: Torts_ (LexisNexis Butterworths, 4th ed, 2021) 117 [7.2].
 ]
@@ -116,12 +116,15 @@ In its name, trespass to land, is about land. Both Jasmine and Connor backyards 
 
 // onus of proof is on the plaintiff to show fault of defendant
 
-For Trespass to land to succeed the onus of proof is on the plaintiff to show fault of defendant, and the defendant does not have available defence.
+Torts are civil action and thus proof is evaluated on the balance of probabilities. For Trespass to land to succeed the onus of proof is on the plaintiff to show fault of defendant by way of elements (1)--(4). Element (5) at common law is unsettled with showing requisite intent of defendant falling on either plaintiff or defendant.
+#footnote[
+  *TODO* - Perry, mchale v watson, hackshaw v shaw
+]
 
-// no need to prove intent of defendant (from study guide 7.1)
+
 // no need to prove damage
 
-*TODO: no need to prove intent of defendant, no need to prove damages*
+Since trespass to land is actionable it is not necessary to prove damage to the plaintiff.*TODO: citation?*
 
 // relevant to plaintiff consent to entry
 // statutory authorisation or lawful authority
