@@ -128,7 +128,6 @@ Since trespass to land is actionable it is not necessary to prove damage to the 
 #footnote[
   _Plenty v Dillon_ (1991) 171 CLR 635, 639 (Mason CJ, Brennan and Toohey JJ), quoting _Entick v Carrington_ (1765) 19 St Tr 1029, 1066.
 ]
-*TODO: citation?*
 
 // relevant to plaintiff consent to entry
 // statutory authorisation or lawful authority
