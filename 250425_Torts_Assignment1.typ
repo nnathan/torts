@@ -265,13 +265,15 @@ Juxtaposed with Jasmine's situation should the tent make contact inside the peri
 #footnote[
   _Graham v KD Morris & Sons Pty Ltd_ [1974] Qd R 1 ('_Graham_').
 ]<Graham>
-which further supported a similar case but with the boom of a crane
+which further supported a similar case but with the boom of a crane,
 #footnote[
   _Janney v Steller Works Pty Ltd_ (2017) 53 VR 677, [30]--[40] ('_Janney_').
-]<Janney>, and a case where the defendant's advertisement sign protruded into the plaintiff's airspace by a few mere inches
+]<Janney>
+and a case where the defendant's advertisement sign protruded into the plaintiff's airspace by a few mere inches.
 #footnote[
   _Kelsen v Imperial Tobacco_ [1957] 2 QB 334
-]. One factor that lessens the extent of the sufficiency is that the tent was a transient interference as opposed to a permanent fixture.
+]
+One factor that lessens the extent of the sufficiency is that the tent was a transient interference as opposed to a permanent fixture.
 #footnote[
   Ibid.
 ]
@@ -282,7 +284,7 @@ The height of the intrusion in airspace however plays in Connor's favour as it i
 ]
 Another factor playing into sufficiency is the effect of the interference and its impact it had on Connor, which he tells Jasmine obstructs his view of his garden, and frustrating his enjoyment of the backyard which he considers a tranquil place. Combining these factors sufficiency is made out.
 
-In order for Connor to sue Jasmine over trespass he must have title to sue or possession. As the facts state it is Connor's backyard, it is presumed he is owner or a lessee.
+In order for Connor to sue Jasmine over trespass he must have title to sue or possession. As the facts state it is Connor's backyard, and thus presumed he is owner or a lessee.
 
 It must be shown or not negated that Jasmine has requisite intention. Jasmine knowingly extended the tent past Connor's yard thinking he wouldn't mind, and is evidenced in Connor's interaction when Jasmine gets defensive and says \'[i]t's just a tent for a few hours. What's the big deal?\' Though it could be said that Jasmine was merely negligent because she set up the tent in haste without paying attention to boundary lines, but in _Johnson v Buchanan_ it was held that negligence still constitutes trespass as the core issue is conscious and voluntary action,
 #footnote[
@@ -290,7 +292,7 @@ It must be shown or not negated that Jasmine has requisite intention. Jasmine kn
 ]
 in which case Jasmine act was both conscious as she knew the tent protrudes on Connor's land, and voluntary as she did so for the enjoyment of her guests.
 
-Referring to defences to trespass to land, Jasmine did not have consent nor lawful authority, and was not involuntary or out of necessity.
+Referring to defences to trespass to land, Jasmine did not have consent nor lawful authority, and was not involuntary conduct or done out of necessity.
 
 Therefore Jasmine is liable to the action of trespass to land.
 
