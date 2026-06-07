@@ -38,15 +38,6 @@
 #show footnote.entry: set text(size: 9pt)
 
 /*
-
-
-Trespas to land instance 2:
-
-Jasmine, feeling defensive, dismisses Connor’s concerns, saying, "It's just a tent for a few hours. What’s the big deal?" This response infuriates Connor and he steps into Jasmine's yard yelling, "Jasmine, you need to take down that tent. You think you own the place. Take it down or I will rip it down with my bare hands."
-
-*/
-
-/*
 Question
 --------
 
@@ -284,22 +275,34 @@ The height of the intrusion in airspace however plays in Connor's favour as it i
 ]
 Another factor playing into sufficiency is the effect of the interference and its impact it had on Connor, which he tells Jasmine obstructs his view of his garden, and frustrating his enjoyment of the backyard which he considers a tranquil place. Combining these factors sufficiency is made out.
 
+Applying the analogy of _Reynolds v Clarke_, Jasmine erected a tent that caused immediate harm to Connor's enjoyment of the land and is therefore a direct interference.
+#footnote[
+  _Reynolds v Clarke_ (1725) 1 Str 634, 636. In the judgement Fortescue J provides way of analogy: 'if a man throws a log into the highway, and in that act it hits me; I may maintain trespass, because it is an immediate wrong; but if as it lies there I tumble over it, and receive an injury, I must bring an action on the case [claim of negligence]; because it is only prejudicial in consequence, for which originally I could have no action at all.'
+]
+
 In order for Connor to sue Jasmine over trespass he must have title to sue or possession. As the facts state it is Connor's backyard, and thus presumed he is owner or a lessee.
 
-It must be shown or not negated that Jasmine has requisite intention. Jasmine knowingly extended the tent past Connor's yard thinking he wouldn't mind, and is evidenced in Connor's interaction when Jasmine gets defensive and says \'[i]t's just a tent for a few hours. What's the big deal?\' Though it could be said that Jasmine was merely negligent because she set up the tent in haste without paying attention to boundary lines, but in _Johnson v Buchanan_ it was held that negligence still constitutes trespass as the core issue is conscious and voluntary action,
+It must be shown or not negated that Jasmine has requisite intention. Jasmine knowingly extended the tent past Connor's yard indicated by her thinking he wouldn't mind, and is evidenced in Connor's interaction when Jasmine gets defensive and says \'[i]t's just a tent for a few hours. What's the big deal?\' Though it could be said that Jasmine was merely negligent because she set up the tent in haste without paying attention to boundary lines, but in _Johnson v Buchanan_ it was held that negligence still constitutes trespass as the core issue is conscious and voluntary action,
 #footnote[
   _Johnson v Buchanan_ [2012] VSC 195, [67].
 ]
 in which case Jasmine act was both conscious as she knew the tent protrudes on Connor's land, and voluntary as she did so for the enjoyment of her guests.
 
-Referring to defences to trespass to land, Jasmine did not have consent nor lawful authority, and was not involuntary conduct or done out of necessity.
+Referring to defences to trespass to land, Jasmine did not have consent as demonstrated by Connor's frustration and response, nor lawful authority for if she had it would've been presented at the time, and was not involuntary conduct or done out of necessity as the tent was erected for the enjoyment of her guests. Jasmine did make the mistake of erecting the tent on his property thinking he would pay no mind, but as stated earlier mistake is no defence to trespass.
 
 Therefore Jasmine is liable to the action of trespass to land.
 
-*TODO: did i address direct interference? and was it not consequential*
-
-=== _Connor's enters Jasmine's backyard_
+=== _Connor enters Jasmine's backyard_
 #v(0.5em)
+
+/*
+
+Trespass to land instance 2:
+
+Jasmine, feeling defensive, dismisses Connor’s concerns, saying, "It's just a tent for a few hours. What’s the big deal?" This response infuriates Connor and he steps into Jasmine's yard yelling, "Jasmine, you need to take down that tent. You think you own the place. Take it down or I will rip it down with my bare hands."
+
+*/
+
 
 /*
 
