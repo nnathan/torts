@@ -147,7 +147,7 @@ Torts are civil action and thus proof is evaluated on the balance of probabiliti
 
 // no need to prove damage
 
-Since trespass to land is actionable per se it is not necessary to prove damage to the plaintiff.
+Since trespass to land is actionable per~se it is not necessary to prove damage to the plaintiff.
 #footnote[
   _Plenty v Dillon_ (1991) 171 CLR 635, 639 (Mason CJ, Brennan and Toohey JJ), quoting _Entick v Carrington_ (1765) 19 St Tr 1029, 1066.
 ]
@@ -183,7 +183,7 @@ Per _Limitation Act 1969_ (NSW) s~14(1)(b) an action founded on tort can be brou
 
 With trespass to land explicated we now analyse the two cases.
 
-=== _Jasmine's tent encroaching on Connor's land_
+=== _Jasmine's tent_
 
 
 /*
@@ -195,13 +195,63 @@ As the afternoon progresses, Connor steps outside to tend to his garden and imme
 
 */
 
-In Jasmine's cas
 
-// relevant to plaintiff consent to entry
-// statutory authorisation or lawful authority
+/*
 
-// defences: consent, implied licence, necessity, involuntary conduct / accident, mistake
+Was there trespass by Jasmine who didn't even enter the land?
 
+17.1 Trespass to land is direct physical contact by the defendant with land
+exclusively possessed by the plaintiff. Usually, the trespassory contact is made by
+the defendant entering, or remaining on, the plaintiff’s property, but a defendant
+may also commit trespass to land by directly causing some object to make contact
+with the land. For example, in Watson v Cowen [1959] Tas SR 194, the defendants
+were held liable in trespass for pushing earth onto the plaintiff’s property with a
+bulldozer, without actually going onto the plaintiff’s land themselves; in Lade &
+Co Pty Ltd v Black [2005] QSC 325, the defendants were held liable in trespass for
+allowing their cattle to go onto the plaintiff’s land; in Hill v Higgins [2012] NSWSC
+270, the defendants were held liable in trespass for piling bricks on the plaintiff’s
+land; and in SSYBA Pty Ltd v Lane [2013] WASC 445, the defendant was held liable
+in trespass for affixing brackets to the wall of the plaintiff’s building.
+
+*/
+
+In this case we analyse whether Jasmine's tent looming over Connor's flower bed constitutes trespass. In understanding the analysis keep in mind that Connor would be the plaintiff and Jasmine the defendant.
+
+
+First the question is whether there is trespass if Jasmine (or her visitors) did not physically enter Connor's land.
+#footnote[
+  In the case of visitors a separate action would have to be lodged against each person.
+]
+It was found in _Watson v Cowen_ that pushing earth onto plaintiff's land with a bulldozer constitutes trespass even though the defendant did not physically enter the land,
+#footnote[
+  _Watson v Cowen_ [1959] Tas SR 194.
+]
+and a case of defendant livestock roaming on plaintiff land,
+#footnote[
+  _Lade & Co Pty Ltd v Black_ [2005] QSC 325.
+]
+and a case of defendant piling bricks on the plaintiff's land.
+#footnote[
+  _Hill v Higgins_ [2012] NSWSC 270.
+]
+Therefore not physically entering the land in person does not vitiate trespass to land if interference emanates from some other means.
+
+Both the tort of nuisance and trespass are concerned with the plaintiff's and use of land it is can be difficult to ascertain. The interference to be trespass must be direct as aforementioned in the elements, and must occur on the plaintiff's land. This is distinct from nuisance which is concerned with emanations e.g. 'noise, dirt, fumes, a noxious smell, vibrations, and suchlike' from a neighbouring defendant's land.
+#footnote[
+  _Hunter v Canary Wharf Ltd_ [1997] AC 655, 685.
+]
+Thus this instance of the tent would fall under trespass as it is interference on the plaintiff's land.
+
+It is unclear whether Jasmine's tent physically encroaches on Connor's backyard or is a tent like an umbrella that juts out looming over Connor's flower beds. If physically on Connor's land then it satisfies the first element that it is an act of interference on the land, but in the latter case the argument is whether there is interference by way of airspace. In _LJP Investments Pty Ltd v Howard Chia Investments Pty Ltd_ it was held scaffolding encroaching on adjacent property airspace constitutes trespass and explicates the test per Hodgson J: '[T]he relevant test is not whether the incursion actually interferes with the occupier's actual use of land at the time, but rather whether it is of a nature and at a height which _may_ interfere with any ordinary uses of the land which the occupier _may_ see fit to undertake.'
+#footnote[
+  _LJP Investments Pty Ltd v Howard Chia Investments Pty Ltd_ (1989) 24 NSWLR 490.
+]
+The test would be satisfied as Connor ordinarily enjoys his backyard and flower beds and the tent interferes with that and obstructs his view.
+
+/*
+Bernstein of Leigh v Skyviews & General Ltd [1978] QB 479 — airspace scope
+Intrusions into airspace may amount to trespass to land if the intrusion is at a height potentially necessary for the ordinary use and enjoyment of the land. An umbrella tent's canopy is plainly within the height necessary for ordinary use of the land — distinguishable from a high-altitude overflight
+*/
 
 /*
 
@@ -233,24 +283,6 @@ it was doing so lawfully.
 */
 
 
-/*
-
-Was there trespass by Jasmine who didn't even enter the land?
-
-17.1 Trespass to land is direct physical contact by the defendant with land
-exclusively possessed by the plaintiff. Usually, the trespassory contact is made by
-the defendant entering, or remaining on, the plaintiff’s property, but a defendant
-may also commit trespass to land by directly causing some object to make contact
-with the land. For example, in Watson v Cowen [1959] Tas SR 194, the defendants
-were held liable in trespass for pushing earth onto the plaintiff’s property with a
-bulldozer, without actually going onto the plaintiff’s land themselves; in Lade &
-Co Pty Ltd v Black [2005] QSC 325, the defendants were held liable in trespass for
-allowing their cattle to go onto the plaintiff’s land; in Hill v Higgins [2012] NSWSC
-270, the defendants were held liable in trespass for piling bricks on the plaintiff’s
-land; and in SSYBA Pty Ltd v Lane [2013] WASC 445, the defendant was held liable
-in trespass for affixing brackets to the wall of the plaintiff’s building.
-
-*/
 
 
 /*
