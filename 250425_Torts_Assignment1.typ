@@ -31,7 +31,7 @@
 )
 
 #set text(
-  font: "arial",
+  font: "Arial",
   size: 12pt,
 )
 
@@ -89,14 +89,15 @@ In answering your question
  - appeal
  */
 
- The issue for consideration is trespass to land. There are two instances that may constitute trespass: the first occurrence is Jasmine's tent looming several feet into Connor's backyard, and the second occurrence is Connor stepping into Jasmine's yard to argue.
+The issue for consideration is trespass to land. There are two instances that may constitute trespass: the first occurrence is Jasmine's tent looming several feet into Connor's backyard, and the second occurrence is Connor stepping into Jasmine's yard to argue.
 
 === _Trespass to land_
+#v(0.5em)
 
- Trespass to land at common law is a civil intentional tort defined as a defendant directly and intentionally interfering with land in exclusive possession of the plaintiff without their consent or legal justification.
- #footnote[
+Trespass to land at common law is a civil intentional tort defined as a defendant directly and intentionally interfering with land in exclusive possession of the plaintiff without their consent or legal justification.
+#footnote[
   _Plenty v Dillon_ (1991) 171 CLR 635, 639 (Mason CJ, Brennan and Toohey JJ);
-  _TCN Channel Nine Pty Ltd v Anning_ (2002) 54 NSWLR 333, 339 [23]--[26] (Spigelman CJ);
+_ TCN Channel Nine Pty Ltd v Anning_ (2002) 54 NSWLR 333, 339 [23]--[26] (Spigelman CJ);
   Sarah Withnall Howe and Greg Walsh, _LexisNexis Study Guide: Torts_ (LexisNexis Butterworths, 4th ed, 2021) 117 [7.2].
 ]
 
@@ -110,7 +111,7 @@ The elements are thus
 + that was a sufficient act,
 + the act was direct interference to the plaintiff and not consequential,
 + the plaintiff has exclusive possession over the land (i.e. title to sue), and
-+ the defendant had requisite state of mind (i.e. intention). #footnote[
++ the defendant had requisite state of mind (i.e. intention).#footnote[
   Sarah Withnall Howe and Greg Walsh, _LexisNexis Study Guide: Torts_ (LexisNexis Butterworths, 4th ed, 2021) 117 [7.2].
 ]
 
@@ -132,10 +133,22 @@ sue for trespass to the property: Hinkley v Star City Pty Ltd [2010] NSWSC 1389.
 possession as opposed to occupation, see 17.16.)
 */
 
-In its name, trespass to land, is about land. Both Jasmine and Connor backyards constitute as such. But to bring about action, they must have exclusive possession of their respective land which goes by way of ownership (e.g. title) or as a lessee (*citation?*), or in more unusual cases where possession of land is demonstrated such as a squatter (*citation?*). The scope of land can go beyond surface area and can include airspace and subsurface within limitation.(*citation?*)
+In its name, trespass to land, is about land. Both Jasmine and Connor backyards constitute as such. But to bring about action, they must have exclusive possession of their respective land which goes by way of ownership (e.g. title) or as a lessee (*citation?*), or in more unusual cases where possession of land is demonstrated such as a squatter (*citation?*). The scope of land can go beyond surface area, and can include, within limitation, airspace
 #footnote[
-*TODO*: ciitations for airspace and subsurface
-]
+  _Bernstein of Leigh v Skyviews & General Ltd_ [1978] QB 479, 488 (_'Skyviews'_).
+]<Skyviews>
+and subsurface
+#footnote[
+  _Bocardo SA v Star Energy UK Onshore Ltd_ [2011] 1 AC 380, [27].
+].
+
+
+
+/*
+Bernstein of Leigh v Skyviews & General Ltd [1978] QB 479 — airspace scope
+Intrusions into airspace may amount to trespass to land if the intrusion is at a height potentially necessary for the ordinary use and enjoyment of the land. An umbrella tent's canopy is plainly within the height necessary for ordinary use of the land — distinguishable from a high-altitude overflight
+*/
+
 
 // onus of proof is on the plaintiff to show fault of defendant
 
@@ -172,7 +185,8 @@ and necessity.
 Mistake does not constitute a defence.
 #footnote[
   _Wilson v McDonald_ (2009) 193 A Crim R 63, [24];
-  _James v North Star Pastoral Pty Ltd_ [2019] NTSC 72.
+  _James v North Star Pastoral Pty Ltd_ [2019] NTSC 72;
+  _Warren v Lawton (No 3)_ [2016] WASC 285, [210].
 ]
 The onus is on the defendant to prove the defence thereby negating the fault.
 
@@ -184,7 +198,7 @@ Per _Limitation Act 1969_ (NSW) s~14(1)(b) an action founded on tort can be brou
 With trespass to land explicated we now analyse the two cases.
 
 === _Jasmine's tent_
-
+#v(0.5em)
 
 /*
 Trespass to land instance 1:
@@ -217,41 +231,73 @@ in trespass for affixing brackets to the wall of the plaintiff’s building.
 
 In this case we analyse whether Jasmine's tent looming over Connor's flower bed constitutes trespass. In understanding the analysis keep in mind that Connor would be the plaintiff and Jasmine the defendant.
 
-
-First the question is whether there is trespass if Jasmine (or her visitors) did not physically enter Connor's land.
-#footnote[
-  In the case of visitors a separate action would have to be lodged against each person.
-]
-It was found in _Watson v Cowen_ that pushing earth onto plaintiff's land with a bulldozer constitutes trespass even though the defendant did not physically enter the land,
+First the question is whether there is trespass if Jasmine did not physically enter Connor's land. It was determined in _Watson v Cowen_ that pushing earth onto plaintiff's land with a bulldozer constitutes trespass even though the defendant did not physically enter the land,
 #footnote[
   _Watson v Cowen_ [1959] Tas SR 194.
 ]
-and a case of defendant livestock roaming on plaintiff land,
+and in a case of livestock roaming on plaintiff's land the defendant was found liable even though they did not set foot on said land,
 #footnote[
   _Lade & Co Pty Ltd v Black_ [2005] QSC 325.
 ]
-and a case of defendant piling bricks on the plaintiff's land.
+and in a case of defendant piling bricks on the plaintiff's land again without setting foot on the land.
 #footnote[
   _Hill v Higgins_ [2012] NSWSC 270.
 ]
-Therefore not physically entering the land in person does not vitiate trespass to land if interference emanates from some other means.
+Therefore not physically entering the land in person does not vitiate trespass to land if interference emanates by other means.
 
-Both the tort of nuisance and trespass are concerned with the plaintiff's and use of land it is can be difficult to ascertain. The interference to be trespass must be direct as aforementioned in the elements, and must occur on the plaintiff's land. This is distinct from nuisance which is concerned with emanations e.g. 'noise, dirt, fumes, a noxious smell, vibrations, and suchlike' from a neighbouring defendant's land.
+Both the tort of nuisance and trespass are concerned with the plaintiff use and enjoyment of land; for which one applies it can be difficult to ascertain. For interference to be trespass it must be, as aforementioned, direct interference, but must also occur on the plaintiff's land. This is distinct from nuisance which is concerned with emanations e.g. \'noise, dirt, fumes, a noxious smell, vibrations, and suchlike\' from a neighbouring defendant's land.
 #footnote[
   _Hunter v Canary Wharf Ltd_ [1997] AC 655, 685.
 ]
-Thus this instance of the tent would fall under trespass as it is interference on the plaintiff's land.
+Thus this instance of the tent would fall under trespass as it is interference on the inside perimeter of the plaintiff's land.
 
-It is unclear whether Jasmine's tent physically encroaches on Connor's backyard or is a tent like an umbrella that juts out looming over Connor's flower beds. If physically on Connor's land then it satisfies the first element that it is an act of interference on the land, but in the latter case the argument is whether there is interference by way of airspace. In _LJP Investments Pty Ltd v Howard Chia Investments Pty Ltd_ it was held scaffolding encroaching on adjacent property airspace constitutes trespass and explicates the test per Hodgson J: '[T]he relevant test is not whether the incursion actually interferes with the occupier's actual use of land at the time, but rather whether it is of a nature and at a height which _may_ interfere with any ordinary uses of the land which the occupier _may_ see fit to undertake.'
+It is unclear whether Jasmine's tent physically encroaches on Connor's backyard or is a tent like an umbrella that juts out looming over Connor's flower beds. If physically on Connor's land then it satisfies the first element that it is an act of interference on the land, but in the latter case the argument is whether there is interference by way of airspace. In _LJP Investments Pty Ltd v Howard Chia Investments Pty Ltd_ it was held scaffolding encroaching on adjacent property airspace constitutes trespass and also explicates the test per Hodgson J: \'[T]he relevant test is not whether the incursion actually interferes with the occupier's actual use of land at the time, but rather whether it is of a nature and at a height which _may_ interfere with any ordinary uses of the land which the occupier _may_ see fit to undertake.\'
 #footnote[
   _LJP Investments Pty Ltd v Howard Chia Investments Pty Ltd_ (1989) 24 NSWLR 490.
 ]
 The test would be satisfied as Connor ordinarily enjoys his backyard and flower beds and the tent interferes with that and obstructs his view.
 
-/*
-Bernstein of Leigh v Skyviews & General Ltd [1978] QB 479 — airspace scope
-Intrusions into airspace may amount to trespass to land if the intrusion is at a height potentially necessary for the ordinary use and enjoyment of the land. An umbrella tent's canopy is plainly within the height necessary for ordinary use of the land — distinguishable from a high-altitude overflight
-*/
+It is now established there was interference on Connor's land but we need to consider if said interference is sufficient. In _Westripp v Baldock_ the defendant had materials made contact with the plaintiff's land, while technical, was considered sufficient for trespass.
+#footnote[
+  _Westripp v Baldock_ [1938] 2 All ER 779, 782.
+]
+Juxtaposed with Jasmine's situation should the tent make contact inside the perimeter of Connor's land then the aforementioned case supports this as sufficient for trespass. If however the tent interferes in airspace then the test in _LJP Investments Pty Ltd v Howard Chia Investments Pty Ltd_ supports this instance as sufficient interference, and further support is provided by a case where the jib of a crane over airspace constitutes trespass
+#footnote[
+  _Graham v KD Morris & Sons Pty Ltd_ [1974] Qd R 1 ('_Graham_').
+]<Graham>
+which further supported a similar case but with the boom of a crane
+#footnote[
+  _Janney v Steller Works Pty Ltd_ (2017) 53 VR 677, [30]--[40] ('_Janney_').
+]<Janney>, and a case where the defendant's advertisement sign protruded into the plaintiff's airspace by a few mere inches
+#footnote[
+  _Kelsen v Imperial Tobacco_ [1957] 2 QB 334
+]. One factor that lessens the extent of the sufficiency is that the tent was a transient interference as opposed to a permanent fixture.
+#footnote[
+  Ibid.
+]
+The height of the intrusion in airspace however plays in Connor's favour as it is well within the proximity to interfere with his enjoyment and use of land.
+#footnote[
+   _Skyviews_ (n #big-footnote[@Skyviews]) 486;
+   _Graham_ (n #big-footnote[@Graham]).
+]
+Another factor playing into sufficiency is the effect of the interference and its impact it had on Connor, which he tells Jasmine obstructs his view of his garden, and frustrating his enjoyment of the backyard which he considers a tranquil place. Combining these factors sufficiency is made out.
+
+In order for Connor to sue Jasmine over trespass he must have title to sue or possession. As the facts state it is Connor's backyard, it is presumed he is owner or a lessee.
+
+It must be shown or not negated that Jasmine has requisite intention. Jasmine knowingly extended the tent past Connor's yard thinking he wouldn't mind, and is evidenced in Connor's interaction when Jasmine gets defensive and says \'[i]t's just a tent for a few hours. What's the big deal?\' Though it could be said that Jasmine was merely negligent because she set up the tent in haste without paying attention to boundary lines, but in _Johnson v Buchanan_ it was held that negligence still constitutes trespass as the core issue is conscious and voluntary action,
+#footnote[
+  _Johnson v Buchanan_ [2012] VSC 195, [67].
+]
+in which case Jasmine act was both conscious as she knew the tent protrudes on Connor's land, and voluntary as she did so for the enjoyment of her guests.
+
+Referring to defences to trespass to land, Jasmine did not have consent nor lawful authority, and was not involuntary or out of necessity.
+
+Therefore Jasmine is liable to the action of trespass to land.
+
+*TODO: did i address direct interference? and was it not consequential*
+
+=== _Connor's enters Jasmine's backyard_
+#v(0.5em)
 
 /*
 
