@@ -275,6 +275,21 @@ The height of the intrusion in airspace however plays in Connor's favour as it i
 ]
 Another factor playing into sufficiency is the effect of the interference and its impact it had on Connor, which he tells Jasmine obstructs his view of his garden, and frustrating his enjoyment of the backyard which he considers a tranquil place. Combining these factors sufficiency is made out.
 
+/*
+Direct act
+7.7 As with all forms of trespass (but unlike negligence), the act of interference must
+be direct and not consequential: Southport Corporation v Esso Petroleum Co Ltd
+[1954] 2 QB 182. This means that the interference that the plaintiff suffers must
+be immediate upon the defendant’s act. A good illustration of this is found in
+Mann v Saulnier (1959) 19 DLR (2d) 130 at 132, citing from Salmond on Torts,
+12th ed, where it was said that to throw stones onto another’s land would be a
+direct interference, but it would be a consequential interference to allow stones
+from a run-down building to fall onto the plaintiff’s land.
+However, sometimes the line between direct and consequential is difficult
+to draw and must be determined on a case-by-case basis, as is illustrated by the
+following two cases.
+*/
+
 Applying the analogy of _Reynolds v Clarke_, Jasmine erected a tent that caused immediate harm to Connor's enjoyment of the land and is therefore a direct interference.
 #footnote[
   _Reynolds v Clarke_ (1725) 1 Str 634, 636. In the judgement Fortescue J provides way of analogy: 'if a man throws a log into the highway, and in that act it hits me; I may maintain trespass, because it is an immediate wrong; but if as it lies there I tumble over it, and receive an injury, I must bring an action on the case [claim of negligence]; because it is only prejudicial in consequence, for which originally I could have no action at all.'
@@ -294,6 +309,44 @@ Therefore Jasmine is liable to the action of trespass to land.
 
 === _Connor enters Jasmine's backyard_
 #v(0.5em)
+
+In this case Connor infuriated by Jasmine nonchalant response when asked to take down the tent steps into Jasmine's yard escalating the situation. In this situation Jasmine would be the plaintiff and Connor the defendant.
+
+Per _Plenty v Dillon_, setting foot on another's land without licence is subject to trespass irregardless of whether there is damage.
+#footnote[
+  _Plenty v Dillon_ (1991) 171 CLR 635, 639 (Mason CJ, Brennan and Toohey JJ), quoting _Entick v Carrington_ (1765) 19 St Tr 1029, 1066.
+]
+Connor's entry into Jasmine's backyard is itself is trespass (bar any vitiating factors) and thus interference albeit no damage to the land is made out.
+
+The interference is not an emanation but the manifestation of the person on Jasmine's land which may be cause of damage or harm to Jasmine's enjoyment of the land including the event she was hosting and enjoyment of her visitors. Therefore qualifying as direct interference.
+
+Whether the interference was of trifling nature or substantial is moot since even trespass that is trifling does not provide a defence, and a plaintiff is still entitled to damages.
+#footnote[
+  _James v North Star_ [2019] NTSC 72, [2].
+]
+Therefore mere entry qualifies as sufficient interference.
+
+It is presumed that Jasmine has possession over her land as an owner or lessee, and thus has title to sue.
+
+Connor appears to have the requisite intention of entering Jasmine's land, as his conduct was volitional as opposed to involuntary and/or accidental,
+#footnote[
+  _Public Transport Commission of New South Wales v Perry_ (1977) 137 CLR 107. The findings were that the defendant falling onto the tracks which was claimed trespass was negated by the fact that the act was involuntary due to an epileptic fit and thus amounted to an accident.
+]
+as he escalated the situation in hopes for Jasmine to bring the tent down or he would bring it down himself.
+
+Connor would not be able to make out a defence of consent as Jasmine did not explicitly consent to him entering her yard, nor was there implied consent as her yard is not open and accessible by the public such would be the case of a driveway.
+#footnote[
+  _Halliday v Nevill_ (1984) 155 CLR 1.
+]
+Connor also does not have legal justification, as responding to trespass does not vitiate trespass at law. It was also not involuntary conduct or mistake as there was volition.
+
+Connor may justify the conduct out of necessity as he says he will 'rip [the tent] down', but that would be necessity for his enjoyment, and not actual necessity which would need to be made out by way of imminent peril, in which this case doesn't apply as Connor is not protecting his property or land from danger but instead trying to remedy a wrong.
+#footnote[
+  _Cope v Sharpe (No 2)_ [1912] 1 KB 496.
+]
+
+Therefore Connor is liable to the action of trespass to land.
+
 
 /*
 
@@ -364,6 +417,9 @@ Connor's entry into Jasmine's yard is straightforward trespass — the interesti
 
 */
 
+=== _Remedies_
+
+Both Connor and Jasmine are able to sue each other for distinct cases of trespass to land. Courts would award both nominal damages as each had their rights infringed by virtue of trespass. There would not be an award for compensatory damages as neither had material damage made out to their property or land. 
 
 
 #text(size: 8pt)[
