@@ -442,6 +442,7 @@ For Jasmine's case exemplary damages require something more than mere trespass a
 For Connor, in principle he could request an injunction for Jasmine's trespass, but it would only make sense if the trespass was ongoing or repetitious, but since this happened once and unlikely to happen again, it would make little sense.
 
 === Conclusion
+#v(0.5em)
 
 Both Connor and Jasmine are entitled to sue each other for trespass to land, but due to the trivial nature of the acts in the grand scheme of things, they may be served by other means of seeking relief.
 
