@@ -145,7 +145,8 @@ Intrusions into airspace may amount to trespass to land if the intrusion is at a
 
 Torts are civil action and thus proof is evaluated on the balance of probabilities. For Trespass to land to succeed the onus of proof is on the plaintiff to show fault of defendant by way of elements (1)--(4). Element (5) at common law is unsettled, that is showing requisite intent of defendant falls on either plaintiff or defendant.
 #footnote[
-  *TODO* - Perry, mchale v watson, hackshaw v shaw
+  _McHale v Watson_ (1964) 111 CLR 384, 389 (Windeyer J);
+  _Hackshaw v Shaw_ (1984) 155 CLR 614, 618-619 (Gibbs CJ).
 ]
 
 
@@ -312,7 +313,7 @@ Therefore Jasmine is liable to the action of trespass to land.
 
 In this case Connor infuriated by Jasmine nonchalant response when asked to take down the tent steps into Jasmine's yard escalating the situation. In this situation Jasmine would be the plaintiff and Connor the defendant.
 
-Per _Plenty v Dillon_, setting foot on another's land without licence is subject to trespass irregardless of whether there is damage.
+Per _Plenty v Dillon_, setting foot on another's land without licence is subject to trespass regardless of whether there is damage.
 #footnote[
   _Plenty v Dillon_ (1991) 171 CLR 635, 639 (Mason CJ, Brennan and Toohey JJ), quoting _Entick v Carrington_ (1765) 19 St Tr 1029, 1066.
 ]
@@ -418,9 +419,29 @@ Connor's entry into Jasmine's yard is straightforward trespass — the interesti
 */
 
 === _Remedies_
+#v(0.5em)
+Both Connor and Jasmine are able to sue each other for distinct cases of trespass to land.
 
-Both Connor and Jasmine are able to sue each other for distinct cases of trespass to land. Courts would award both nominal damages as each had their rights infringed by virtue of trespass. There would not be an award for compensatory damages as neither had material damage made out to their property or land. 
+Courts would award both nominal damages as each had their rights infringed by virtue of trespass. There would not be an award for compensatory damages as neither had material damage made out to their property or land.
 
+For Connor's case against Jasmine there could be consideration of exemplary (punitive) damages due to what could be considered aggravation as Jasmine repeatedly refused to bring down the tent which escalated Connor's frustration. However such conduct would need to show Jasmine was guilty of 'conscious' and 'contumelious disregard' which is arguable but not probable.
+#footnote[
+  _Uren v John Fairfax & Sons Pty Ltd_ (1966) 117 CLR 118, 154 (Windeyer J).
+]
+
+For Jasmine's case exemplary damages require something more than mere trespass and therefore would not be awarded.
+
+For Connor, in principle he could request an injunction for Jasmine's trespass, but it would only make sense if the trespass was ongoing or repetitious, but since this happened once and unlikely to happen again, it would make little sense.
+
+=== Conclusion
+
+Both Connor and Jasmine are entitled to sue each other for trespass to land, but due to the trivial nature of the acts in the grand scheme of things, they may be served by other means of seeking relief.
+
+In such cases, a pre-trial negotiation and agreement to ensure each do not infringe on the rights of each other in the future and to respect boundaries could get the desired relief while reducing time and money spent in courts.
+
+Having a third party mediator via Alternate Dispute Resolution (ADR) is another way to address the issue.
+
+In both ways above, not only would the trespass of land disputes be addressed, but the other concomitant problems such as nuisance and other trespass would be discussed in aggregate as to flesh out in whole what each party would need to enjoy their use and comfort of land and person.
 
 #text(size: 8pt)[
 (number of words in main body counted excluding header/footer/footnotes/bibilography: #total-words)
