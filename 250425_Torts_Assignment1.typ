@@ -88,7 +88,7 @@ The issue for consideration is trespass to land. There are two instances that ma
 Trespass to land at common law is a civil intentional tort defined as a defendant directly and intentionally interfering with land in exclusive possession of the plaintiff without their consent or legal justification.
 #footnote[
   _Plenty v Dillon_ (1991) 171 CLR 635, 639 (Mason CJ, Brennan and Toohey JJ);
-_ TCN Channel Nine Pty Ltd v Anning_ (2002) 54 NSWLR 333, 339 [23]--[26] (Spigelman CJ);
+  _TCN Channel Nine Pty Ltd v Anning_ (2002) 54 NSWLR 333, 339 [23]--[26] (Spigelman CJ);
   Sarah Withnall Howe and Greg Walsh, _LexisNexis Study Guide: Torts_ (LexisNexis Butterworths, 4th ed, 2021) 117 [7.2].
 ]
 
@@ -124,7 +124,15 @@ sue for trespass to the property: Hinkley v Star City Pty Ltd [2010] NSWSC 1389.
 possession as opposed to occupation, see 17.16.)
 */
 
-In its name, trespass to land, is about land. Both Jasmine and Connor backyards constitute as such. But to bring about action, they must have exclusive possession of their respective land which goes by way of ownership (e.g. title) or as a lessee (*citation?*), or in more unusual cases where possession of land is demonstrated such as a squatter (*citation?*). The scope of land can go beyond surface area, and can include, within limitation, airspace
+In its name, trespass to land, is about land. Both Jasmine and Connor backyards constitute as such. But to bring about action, they must have exclusive possession of their respective land which goes by way of ownership (e.g. title) or as a lessee
+#footnote[
+  _Moore v Devanjul Pty Ltd (No 5)_ [2013] QSC 323, [20] (McMeekin J).
+]
+, or in more unusual cases where possession of land by neither title or lessee but via act of maintenance.
+#footnote[
+  _Newington v Windeyer_ (1985) 3 NSWLR 555.
+]
+The scope of land can go beyond surface area, and can include, within limitation, airspace
 #footnote[
   _Bernstein of Leigh v Skyviews & General Ltd_ [1978] QB 479, 488 (_'Skyviews'_).
 ]<Skyviews>
@@ -143,7 +151,7 @@ Intrusions into airspace may amount to trespass to land if the intrusion is at a
 
 // onus of proof is on the plaintiff to show fault of defendant
 
-Torts are civil action and thus proof is evaluated on the balance of probabilities. For Trespass to land to succeed the onus of proof is on the plaintiff to show fault of defendant by way of elements (1)--(4). Element (5) at common law is unsettled, that is showing requisite intent of defendant falls on either plaintiff or defendant.
+Torts are civil action and thus proof is evaluated on the balance of probabilities. For Trespass to land to succeed the onus of proof is on the plaintiff to show fault of defendant by way of elements (1)--(4). Element (5) is unsettled at common law: it is debated whether the plaintiff must prove intention or whether intention is presumed from the voluntary act, leaving the defendant to rebut it.
 #footnote[
   _McHale v Watson_ (1964) 111 CLR 384, 389 (Windeyer J);
   _Hackshaw v Shaw_ (1984) 155 CLR 614, 618-619 (Gibbs CJ).
@@ -331,7 +339,7 @@ It is presumed that Jasmine has possession over her land as an owner or lessee, 
 
 Connor appears to have the requisite intention of entering Jasmine's land, as his conduct was volitional as opposed to involuntary and/or accidental,
 #footnote[
-  _Public Transport Commission of New South Wales v Perry_ (1977) 137 CLR 107. The findings were that the defendant falling onto the tracks which was claimed trespass was negated by the fact that the act was involuntary due to an epileptic fit and thus amounted to an accident.
+  _Public Transport Commission of New South Wales v Perry_ (1977) 137 CLR 107. The findings were that the plaintiff falling onto the tracks which was claimed trespass was negated by the fact that the act was involuntary due to an epileptic fit and thus amounted to an accident.
 ]
 as he escalated the situation in hopes for Jasmine to bring the tent down or he would bring it down himself.
 
@@ -442,6 +450,77 @@ In such cases, a pre-trial negotiation and agreement to ensure each do not infri
 Having a third party mediator via Alternate Dispute Resolution (ADR) is another way to address the issue.
 
 In both ways above, not only would the trespass of land disputes be addressed, but the other concomitant problems such as nuisance and other trespass would be discussed in aggregate as to flesh out in whole what each party would need to enjoy their use and comfort of land and person.
+
+#[
+#align(center)[= BIBLIOGRAPHY]
+
+#align(center)[== A. Books]
+#v(0.5em)
+
+Howe, Sarah Withnall and Greg Walsh, _LexisNexis Study Guide: Torts_ (LexisNexis Butterworths, 4th ed, 2021)
+
+Davies, Martin, Ian Malkin and Tania Voon, _Focus Torts_ (LexisNexis Butterworths, 10th ed, 2024)
+
+#align(center)[== B. Cases]
+#v(0.5em)
+_Bernstein of Leigh v Skyviews & General Ltd_ [1978] QB 479
+
+_Bocardo SA v Star Energy UK Onshore Ltd_ [2011] 1 AC 380
+
+_Cope v Sharpe (No 2)_ [1912] 1 KB 496
+
+_Entick v Carrington_ (1765) 19 St Tr 1029
+
+_Graham v KD Morris & Sons Pty Ltd_ [1974] Qd R 1
+
+_Hackshaw v Shaw_ (1984) 155 CLR 614
+
+_Halliday v Nevill_ (1984) 155 CLR 1
+
+_Hill v Higgins_ [2012] NSWSC 270
+
+_Hunter v Canary Wharf Ltd_ [1997] AC 655
+
+_James v North Star Pastoral Pty Ltd_ [2019] NTSC 72
+
+_Janney v Steller Works Pty Ltd_ (2017) 53 VR 677
+
+_Johnson v Buchanan_ [2012] VSC 195
+
+_Kelsen v Imperial Tobacco_ [1957] 2 QB 334
+
+_Lade & Co Pty Ltd v Black_ [2005] QSC 325
+
+_LJP Investments Pty Ltd v Howard Chia Investments Pty Ltd_ (1989) 24 NSWLR 490
+
+_McHale v Watson_ (1964) 111 CLR 384
+
+_Moore v Devanjul Pty Ltd (No 5)_ [2013] QSC 323
+
+_Newington v Windeyer_ (1985) 3 NSWLR 555
+
+_Plenty v Dillon_ (1991) 171 CLR 635
+
+_Public Transport Commission of NSW v Perry_ (1977) 137 CLR 107
+
+_Reynolds v Clarke_ (1725) 1 Str 634
+
+_TCN Channel Nine Pty Ltd v Anning_ (2002) 54 NSWLR 333
+
+_Uren v John Fairfax & Sons Pty Ltd_ (1966) 117 CLR 118
+
+_Warren v Lawton (No 3)_ [2016] WASC 285
+
+_Watson v Cowen_ [1959] Tas SR 194
+
+_Westripp v Baldock_ [1938] 2 All ER 779
+
+_Wilson v McDonald_ (2009) 193 A Crim R 63
+
+#align(center)[== C. Legislation]
+#v(0.5em)
+_Limitation Act 1969_ (NSW)
+] <no-wc>
 
 #text(size: 8pt)[
 (number of words in main body counted excluding header/footer/footnotes/bibilography: #total-words)
