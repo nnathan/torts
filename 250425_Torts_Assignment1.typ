@@ -526,5 +526,5 @@ _Limitation Act 1969_ (NSW)
 #text(size: 8pt)[
 (number of words in main body counted excluding header/footer/footnotes/bibilography: #total-words)
 
-AI attribution: Claude used to help with AGLC4 citations and reviewing the writing, but Actual Intelligence prevailed in the end.
+AI attribution: Claude used to help with reviewing and tightening final draft and ensuring AGLC4 compliance, but in the end Actual Intelligence prevailed.
 ] <no-wc>
