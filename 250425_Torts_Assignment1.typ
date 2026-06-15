@@ -271,7 +271,7 @@ which further supported a similar case but with the boom of a crane,
 ]<Janney>
 and a case where the defendant's advertisement sign protruded into the plaintiff's airspace by a few mere inches.
 #footnote[
-  _Kelsen v Imperial Tobacco_ [1957] 2 QB 334
+  _Kelsen v Imperial Tobacco_ [1957] 2 QB 334.
 ]
 One factor that lessens the extent of the sufficiency is that the tent was a transient interference as opposed to a permanent fixture.
 #footnote[
